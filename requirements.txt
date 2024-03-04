@@ -1,0 +1,14 @@
+# Jupyter Notebook kernel
+ipykernel
+
+# Exploratory data analysis
+pandas
+
+# To make API requests
+requests
+
+# To query dataframes using SQL
+pandasql
+
+# Visualization
+matplotlib
