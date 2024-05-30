@@ -1,0 +1,6 @@
+id,name,county,municipality,lat,lon,show_on_map,priority,activities,altitude,location_sources
+0fb9f33f-b440-4cf3-8d9a-4c95ad1c33bd,gen-Sandnes-59.091835-6.706498,Sandnes,Rogaland,59.091835,6.706498,False,1000,0,931,[]
+4c8769b5-afac-46fb-84c2-ec07eaa32b21,gen-Sunnfjord-61.350636-5.7916164,Sunnfjord,Vestland,61.350636,5.7916164,False,1000,0,704,[]
+e387efbe-a39c-482b-8163-cfa5a63f630b,gen-Trondheim-63.395805-10.54955,Trondheim,Trøndelag,63.395805,10.54955,False,1000,0,150,[]
+625a65d0-c161-475f-b0de-a5b519667304,gen-Guovdageaidnu-69.11891-22.604555,Guovdageaidnu,Troms og Finnmark,69.11891,22.604555,False,1000,0,449,[]
+4bb93036-6695-4a10-bb2b-4f19df629def,gen-Nordreisa-69.84798-21.39644,Nordreisa,Troms og Finnmark,69.84798,21.39644,False,1000,0,79,[]
